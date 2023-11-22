@@ -1,0 +1,14 @@
+.heading{
+    color: black;
+    width:80%;
+    
+}
+body{
+    background-color:darksalmon ;
+}
+#camera,#result{
+    width: 300px;
+    height: 300px;
+    border: 2px dashed crimson;
+    
+}
